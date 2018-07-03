@@ -198,5 +198,5 @@ rn = RainyNight(max_capacity=2)
 #rn = RainyNight(max_capacity=2, random_reward=False,
 #    happiness=HAPPINESS, unhappiness=UNHAPPINESS,
 #    willingness=WILLINGNESS)
-print (rn.optimal_state)
+# print (rn.optimal_state)
 rn.to_string()
